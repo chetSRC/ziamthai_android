@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\menu\\three_buttons_menu.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\menu\\three_buttons_menu.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\ZiamThai\\TheCheeseLibrary\\unspecified\\res\\menu\\menu_main.xml"
+    }
+]

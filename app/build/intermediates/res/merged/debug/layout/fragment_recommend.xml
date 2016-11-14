@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+   <android.support.v4.widget.SwipeRefreshLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+       android:id="@+id/swipeRefreshLayout">
+      <GridView
+          android:id="@+id/LV_Recommend"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:columnWidth="120dp"
+          android:numColumns="2"
+          android:verticalSpacing="4dp"
+          android:horizontalSpacing="4dp"
+          android:stretchMode="columnWidth"
+          android:gravity="center" >
+      </GridView>
+
+   </android.support.v4.widget.SwipeRefreshLayout>
+
+   <!--<revenue_express.ziamthai.view.RecommendListItem-->
+       <!--android:layout_width="match_parent"-->
+       <!--android:layout_height="match_parent">-->
+   <!--</revenue_express.ziamthai.view.RecommendListItem>-->
+</LinearLayout>

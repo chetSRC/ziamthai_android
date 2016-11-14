@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_item"
+        android:icon="@drawable/search"
+        android:title="@string/Home" />
+    <item
+        android:id="@+id/point_item"
+        android:icon="@drawable/search"
+        android:title="@string/Point" />
+    <item
+        android:id="@+id/friend_item"
+        android:icon="@drawable/search"
+        android:title="@string/Friend" />
+    <!--<item-->
+        <!--android:id="@+id/setting_item"-->
+        <!--android:icon="@drawable/search"-->
+        <!--android:title="@string/Setting" />-->
+</menu>

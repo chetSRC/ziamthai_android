@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ZiamThai</string>
+    <string name="title_activity_login">ลงชื่อเข้าใช้</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">อีเมลล์</string>
+    <string name="prompt_password">รหัส</string>
+    <string name="action_sign_in">ลงชื่อเข้าใช้ หรือ สมัครสมาชิก</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="facebook_app_id">306345773047501</string>
+    <string name="title_activity_maps">แผนที่</string>
+
+    <string name="login_with_email">เข้าใช้ด้วยอีเมลล์</string>
+    <string name="title_activity_maps2">แผนที่</string>
+
+    <string name="Login">ลงชื่อเข้าใช้</string>
+    <string name="Register">สมัครสมาชิก</string>
+    <string name="Name">ชื่อ</string>
+    <string name="Email">อีเมลล์</string>
+    <string name="Password">รหัส</string>
+    <string name="Confirmpassword">ยืนยันรหัส</string>
+
+    <string name="Home">หน้าแรก</string>
+    <string name="Point">คะแนน</string>
+    <string name="Friend">เพื่อน</string>
+    <string name="Setting">ตั้งค่า</string>
+
+    <string name="Recommend">แนะนำ</string>
+    <string name="Review">รีวิว</string>
+    <string name="Deal">โปรโมชั่น</string>
+    <string name="Knowledge">เกร็ดความรู้</string>
+
+    <string name="SearchRestaurant">ค้นหาชื่อร้าน</string>
+</resources>

@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minnesota.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\minnesota.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.gif",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\loading.gif"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoziamthai.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\logoziamthai.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\knowledge1.jpg",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\knowledge1.jpg"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\illinois.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\illinois.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texas.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\texas.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vermont.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\vermont.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\california.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\california.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_unselected.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo2.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\photo2.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alabama.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\alabama.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\louisiana.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\louisiana.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oregon.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\oregon.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selected.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idaho.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\idaho.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\montana.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\montana.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\georgia.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\georgia.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo3.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\photo3.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\knowledge3.jpg",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\knowledge3.jpg"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iowa.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\iowa.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\washington.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\washington.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\west_virginia.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\west_virginia.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\missouri.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\missouri.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oklahoma.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\oklahoma.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arkansas.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\arkansas.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colorado.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\colorado.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marland.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\marland.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\virginia.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\virginia.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delaware.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\delaware.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\north_carolina.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\north_carolina.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo1_2.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\photo1_2.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\south_dakota.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\south_dakota.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_hampshire.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\new_hampshire.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamon.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\diamon.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alaska.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\alaska.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rhode_island.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\rhode_island.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wyoming.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\wyoming.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\knowledge2.jpg",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\knowledge2.jpg"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_jersey.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\new_jersey.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\utah.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\utah.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\north_dakota.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\north_dakota.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\florida.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\florida.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\massachusetts.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\massachusetts.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\revenue.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\revenue.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kansas.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\kansas.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\award1.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\award1.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ohio.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\ohio.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connecticut.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\connecticut.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home2.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\home2.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_york.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\new_york.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\flag.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\michigan.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\michigan.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hawaii.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\hawaii.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mississippi.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\mississippi.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pennsylvania.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\pennsylvania.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shearch2.9.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\shearch2.9.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\south_carolina.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\south_carolina.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arizona.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\arizona.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nebraska.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\nebraska.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nevada.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\nevada.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maine.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\maine.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kentucky.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\kentucky.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tennessee.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\tennessee.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_mexico.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\new_mexico.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\indiana.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selector.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wisconsin.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\wisconsin.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb_bottom_bar_top_shadow.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\drawable\\bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo4.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\photo4.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo1.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\photo1.png"
+    },
+    {
+        "merged": "D:\\MyApp\\ZiamThai\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
+        "source": "D:\\MyApp\\ZiamThai\\app\\src\\main\\res\\drawable\\male.png"
+    }
+]
